@@ -1,4 +1,4 @@
-# CodeClause_Task4
+# CodeClause_GoldenProject2
 # Price Recommendation for Online Sellers (Code Clause)
 
 Price Recommendation for Online Sellers lets suppliers compare their prices with other vendors’ prices for the same or similar products. In terms of sales growth, it displays the impact that accepting price recommendations has had at both the product and the overall level.
